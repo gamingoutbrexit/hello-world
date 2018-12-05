@@ -1,0 +1,132 @@
+{
+  "description": "Edible Mushrooms of California, grouped by genus",
+  "source": "https://www.mykoweb.com/CAF/edible.html",
+  "mushrooms": [
+    {
+      "genus": "Cantharellus",
+      "common_name_of_genus": "Chanterelles",
+      "members": [
+        {
+          "common_name": "Golden Chanterelle",
+          "species": "cibarius"
+        },
+          {
+            "common_name": "California Chanterelle",
+            "species": "californicus"
+          }
+
+      ]
+    },
+    {
+      "genus": "Boletus",
+      "common_name_of_genus": "Boletes",
+      "members": [
+        {
+          "common_name": "King Bolete",
+          "species": "edulis"
+        },
+          {
+            "common_name": "Bronze Bolete",
+            "species": "aereus"
+          },
+            {
+              "common_name": "Zeller's Bolete",
+              "species": "zelleri"
+            }
+
+      ]
+    },
+    {
+      "genus": "Coprinus",
+      "common_name_of_genus": "Inky Caps",
+      "members": [
+        {
+          "common_name": "Shaggy Mane",
+          "species": "comatus"
+        }
+      ]
+    },
+    {
+      "genus": "Agaricus",
+      "common_name_of_genus": "Agarics",
+      "members": [
+        {
+          "common_name": "Common Mushroom",
+          "species": "bisporus"
+        },
+          {
+            "common_name": "Field Mushroom",
+            "species": "campestris"
+          },
+            {
+              "common_name": "Horse Mushroom",
+              "species": "arvensis"
+            },
+              {
+                "common_name": "Prince",
+                "species": "augustus"
+              }
+
+      ]
+    },
+    {
+      "genus": "Morchella",
+      "common_name_of_genus": "Morels",
+      "members": [
+        {
+          "common_name": "White Morel",
+          "species": "deliciosa"
+        },
+          {
+            "common_name": "Black Morel",
+              "species": "elata"
+            }
+
+      ]
+    },
+    {
+      "genus": "Craterellus",
+      "common_name_of_genus": "Trumpets",
+      "members": [
+        {
+          "common_name": "Black Trumpet",
+          "species": "cornucopioides"
+        }
+
+      ]
+    },
+    {
+      "genus": "Pleurotus",
+      "common_name_of_genus": "Oysters",
+      "members": [
+        {
+          "common_name": "Oyster Mushroom",
+          "species": "ostreatus"
+        }
+
+      ]
+    },
+    {
+      "genus": "Hydnum",
+      "common_name_of_genus": "Hedgehogs",
+      "members": [
+        {
+          "common_name": "Hedgehog Mushroom",
+          "species": "repandum"
+        }
+
+      ]
+    },
+    {
+      "genus": "Clitocybe",
+      "common_name_of_genus": "Blewits",
+      "members": [
+        {
+          "common_name": "Wood Blewit",
+          "species": "nuda"
+        }
+
+      ]
+    }
+  ]
+}
